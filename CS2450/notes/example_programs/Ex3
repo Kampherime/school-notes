@@ -1,0 +1,12 @@
+NOT R3, R2
+ADD R3, R3, #1
+ADD R3, R1, R3
+BRNZ 4 ; (if)
+--- 
+--- 
+---
+BRNZP 3 ; (else)
+---
+--- 
+---
+HALT

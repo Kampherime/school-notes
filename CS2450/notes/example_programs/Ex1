@@ -1,0 +1,8 @@
+AND R0, R0, #0
+AND R1, R1, #0
+ADD R0, R0, #6
+ADD R1, R1, R0 ; here.
+ADD R0, R0, #-1
+; This is the loop. This BRP. 
+BRP -3 ; 3 behind the program counter, which is at halt. goes back to...
+HALT

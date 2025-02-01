@@ -1,0 +1,11 @@
+; We want to execute the following:
+; if (R2 > R1) {
+;    R2 <- R2 + R1
+; }
+; We do it like this.
+NOT R3, R1
+ADD R3, R3, #1 ; 2's comp
+ADD R3, R2, R3 ; The result (R3) sets the flags required for BR.
+BRNZ, 1 ; if statement (we don't use P because using P would SKIP the code we want to execute.)
+ADD R2, R2, R1
+HALT
