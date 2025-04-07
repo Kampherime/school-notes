@@ -1,0 +1,12 @@
+\documentclass{report}
+\usepackage{amsmath, amsthm, amssymb}
+\begin{document}
+\textbf{Exercise}: Let $G$ be the group where every element is its own inverse. Show that $G$ is abelian.
+\begin{proof}
+Take $g \in G$. Then $g^2 = e$ and $g = g^{-1}$. We also have $h \in G$ such that $h^2 = e$ and $h = h^{-1}$. We want to show that $hg = gh$.\\
+$G$ is a group $\implies gh \in G.$ 
+$\implies gh = (gh)^{-1}$
+$=h^{-1}g^{-1}$.
+But $(hg)^{-1} = h^{-1}g^{-1} = hg = gh \implies G$ is abelian.
+\end{proof} 
+\end{document}

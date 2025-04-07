@@ -1,0 +1,9 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	GETNUM                  3003
+//	LOOP                    3006
+//	MAIN                    3000
+//	N0                      3012
+//	OFFSET                  3013
+//	R2_ADDR                 3011
+//	R7_ADDR                 3010

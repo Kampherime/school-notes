@@ -1,0 +1,15 @@
+##[pylyzer] failed /home/katherine/School/STT3850/notes/3-19-25.py 1742496712 641
+.np = pyimport "__init__.pyi"
+.__init__.pyi = pyimport "__init__.pyi"
+
+.___v_desugar_1: Never
+.LinearRegression: Never
+.x: Never
+.y: Never
+.model: Never
+.r_sq: Never
+
+
+
+.y_pred: Never
+

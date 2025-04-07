@@ -1,0 +1,24 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	COND5                   300F
+//	COND6                   3011
+//	COND7                   3014
+//	COND8                   3016
+//	COUNTCHAR               3002
+//	FIN2                    3038
+//	LCLOOP                  302C
+//	LCTEST                  3027
+//	MAIN                    3000
+//	N32_2                   3042
+//	NA                      3041
+//	NORMLOOP                3019
+//	P32_2                   3043
+//	R0_ADDR2                3044
+//	R1_ADDR2                3045
+//	R2_ADDR2                3046
+//	R3_ADDR2                3047
+//	R4_ADDR2                3048
+//	R5_ADDR2                3049
+//	R6_ADDR                 304A
+//	UCLOOP                  3020
+//	UCTEST                  3033

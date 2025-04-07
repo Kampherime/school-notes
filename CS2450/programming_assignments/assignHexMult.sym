@@ -1,0 +1,28 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	CHEX                    301D
+//	DIGIT                   3019
+//	FIN                     3048
+//	GETH4                   304D
+//	GETHD                   3003
+//	LHEX                    3022
+//	LOAD                    3028
+//	LOOP                    3008
+//	LOOP1                   303F
+//	LOOP2                   3045
+//	MAIN                    3000
+//	MULT                    3032
+//	N0                      302F
+//	NLF                     3030
+//	NUA                     3031
+//	R1MULT                  303D
+//	R1_ADDR1                302E
+//	R1_ADDR2                304B
+//	R1_ADDR3                3079
+//	R2MULT                  3043
+//	R2_ADDR1                302D
+//	R2_ADDR2                304C
+//	R2_ADDR3                307A
+//	R3_ADDR3                307B
+//	R7_ADDR1                302C
+//	R7_ADDR3                307C
