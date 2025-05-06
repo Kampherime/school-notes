@@ -1,0 +1,20 @@
+##[pylyzer] failed /home/kat/school-notes/STT3850/py/4-14-25.py 1744654016 887
+.stats = pyimport "__init__"
+.__init__ = pyimport "__init__"
+
+.Y1: Never
+.Y2: Never
+.___v_global_589: Never
+.statistic: Never
+.p_value: Structural({.__lt__ = (self: Never, Obj) -> Bool})
+
+
+
+
+.alpha: {0.05}
+
+
+
+
+
+
